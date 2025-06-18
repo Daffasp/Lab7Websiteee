@@ -563,7 +563,8 @@
  <?= $this->include('template/admin_footer'); ?>
  ```
  
- ![alt text](image-9.png)
+ ![image](https://github.com/user-attachments/assets/7b8a8fa9-d61a-43d6-a4d6-2757e8ac2af3)
+
  
  ### 19. Menghapus Data
  
