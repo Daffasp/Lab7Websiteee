@@ -378,7 +378,8 @@
  $routes->get('/artikel/(:any)', 'Artikel::view/$1');
  ```
  
- ![alt text](image-8.png)
+ ![image](https://github.com/user-attachments/assets/acf71cca-8f3b-4664-ba65-e6ab1ab809eb)
+
  
  ### 12. Membuat Menu Admin
  
