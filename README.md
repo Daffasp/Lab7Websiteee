@@ -459,7 +459,8 @@
  
  Akses menu admin dengan url http://localhost:8080/admin/article
  
- ![alt text](image-8.png)
+ ![image](https://github.com/user-attachments/assets/917d34f7-d285-4e8e-b56e-47b6975b151d)
+
  
  ### 15. Menambah Data Artikel
  
