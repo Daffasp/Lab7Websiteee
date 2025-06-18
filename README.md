@@ -511,8 +511,8 @@
  <?= $this->include('template/admin_footer'); ?>
  ```
  
- ![alt text](image-10.png)
- 
+ ![image](https://github.com/user-attachments/assets/d33ba5f8-9405-45d0-bc54-f1c3bc1e65ad)
+
  ### 17. Mengubah Data
  
  Tambahkan fungsi/method baru pada Controller Artikel dengan nama edit().
