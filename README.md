@@ -3,7 +3,7 @@
    <img src="https://www.svgrepo.com/show/353579/codeigniter.svg" width="100" alt="CodeIgniter 4 Logo">
  </div>
  
- # 📌 Laporan Praktikum 1: PHP Framework (CodeIgniter 4)
+ # 📌 Laporan Praktikum 1-3: PHP Framework (CodeIgniter 4)
  
  ## 👤 Profil Mahasiswa
  
